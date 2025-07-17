@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-Here i ptovide Optimal Solution of LeetCode Problems
+Here i provide Optimal Solution of LeetCode Problems
