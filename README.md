@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-Here i provide Optimal Solution of LeetCode Problems
+Here I Uplaod daily 1-2 Solutions Of LeetCode Problems In Java Language
